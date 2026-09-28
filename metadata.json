@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Maxdis",
+  "description": "Alat hitung mundur waktu kerja display per lorong dan verifikasi kepatuhan Max Display",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
